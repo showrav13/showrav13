@@ -68,5 +68,5 @@ My primary focus is **backend engineering**, with strong experience across the f
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/showrav-acharjee  
-- Email: your-email@example.com  
+- Email: showravacharjee@gmail.com
 - Open to backend and full-stack roles (Germany / EU / Remote)
